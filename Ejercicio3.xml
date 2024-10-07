@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minecraftItems lang="es">
+<item>
+    <id>3</id>
+    <name>arco</name>
+    <type>arma</type>
+    <rarity>madera</rarity>
+    <damage>3</damage>
+    <description>Arma para matar a enemigos</description>
+    <crafteable>true</crafteable>
+    <materials>
+        <material>hierro</material>
+        <material>madera</material>
+    </materials>
+    <enchantable>true</enchantable>
+    <enchantments>
+        <enchantment>infinidad</enchantment>
+        <enchantment>eficiencia</enchantment>
+    </enchantments>
+</item>
+
+<item>
+    <id>2</id>
+    <name>espada</name>
+    <type>arma</type>
+    <rarity>hierro</rarity>
+    <damage>3</damage>
+    <description>Arma para matar a enemigos</description>
+    <crafteable>true</crafteable>
+    <materials>
+        <material>hierro</material>
+        <material>acero</material>
+    </materials>
+    <enchantable>true</enchantable>
+    <enchantments>
+        <enchantment>infinidad</enchantment>
+        <enchantment>eficiencia</enchantment>
+    </enchantments>
+</item>
+
+<item>
+    <id>5</id>
+    <name>pala</name>
+    <type>herramienta</type>
+    <rarity>hierro</rarity>
+    <damage>0</damage>
+    <description>herramaienta para plantar plantas</description>
+    <crafteable>true</crafteable>
+    <materials>
+        <material>hierro</material>
+        <material>acero</material>
+    </materials>
+    <enchantable>true</enchantable>
+    <enchantments>
+        <enchantment>infinidad</enchantment>
+        <enchantment>eficiencia</enchantment>
+    </enchantments>
+</item>
+
+<item>
+    <id>3</id>
+    <name>pala</name>
+    <type>herramienta</type>
+    <rarity>hierro</rarity>
+    <damage>0</damage>
+    <description>herramienta para plantar plantas</description>
+    <crafteable>true</crafteable>
+    <materials>
+        <material>hierro</material>
+        <material>acero</material>
+    </materials>
+    <enchantable>true</enchantable>
+    <enchantments>
+        <enchantment>infinidad</enchantment>
+        <enchantment>eficiencia</enchantment>
+    </enchantments>
+</item>
+</minecraftItems>
