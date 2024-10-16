@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum-vitae>
+    <informacion-personal>
+        <nombre>Adrià</nombre>
+        <fecha-nacimiento>30/12/2006</fecha-nacimiento>
+        <email>adriaalemany2006@gmail.com</email>
+        <direccion>Calle Pedreguer 5</direccion>
+        <telefono>+34 640772080</telefono>
+        <dni>54325432W</dni>
+        <quien-soy> Soy un chico de 17 años, con muchas ganas de trabajar y aprender.</quien-soy>
+    </informacion-personal>
+
+    <educacion>
+        <titulo>
+            <grado>Educacion Secundaria</grado>
+            <institucion>Maristas Denia</institucion>
+            <fecha-inicio>2017</fecha-inicio>
+            <fecha-fin>2021</fecha-fin>
+        </titulo>
+        <titulo>
+            <grado>Grado Medio SMX</grado>
+            <institucion>IES Chabas</institucion>
+            <fecha-inicio>2021</fecha-inicio>
+            <fecha-fin>2023</fecha-fin>
+        </titulo>
+        <titulo>
+            <grado>Cursando Grado Superior ASIR</grado>
+            <institucion>IES la Mar</institucion>
+            <fecha-inicio>2024</fecha-inicio>
+        </titulo>
+    </educacion>
+
+    <habilidades>
+        <habilidad>Trabajador</habilidad>
+        <habilidad>Trabajo en equipo</habilidad>
+        <habilidad>Inglés intermedio</habilidad>
+    </habilidades>
+
+    <idiomas>
+        <idioma>
+            <nombre>Español</nombre>
+            <nivel>Nativo</nivel>
+        </idioma>
+        <idioma>
+            <nombre>Valenciano</nombre>
+            <nivel>Nativo</nivel>
+        </idioma>
+        <idioma>
+            <nombre>Inglés</nombre>
+            <nivel>Intermedio</nivel>
+        </idioma>
+    </idiomas>
+</curriculum-vitae>
