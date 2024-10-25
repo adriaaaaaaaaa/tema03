@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minecraftItems lang="es">
+<item>
+    <id>3</id>
+    <name>espada</name>
+    <type>arma</type>
+    <rarity>hierro</rarity>
+    <damage>5</damage>
+    <description>Arma para matar a enemigos</description>
+    
+</item>
+
+<item>
+    <id>2</id>
+    <name>arco</name>
+    <type>arma</type>
+    <rarity>madera</rarity>
+    <damage>2</damage>
+    <description>Arma para matar a enemigos o cazar</description>
+</item>
+
+<item>
+    <id>7</id>
+    <name>pico</name>
+    <type>herramienta</type>
+    <rarity>hierro</rarity>
+    <damage>1</damage>
+    <description>Herramienta para recolectar madera o algun tipo de material</description>
+</item>
+
+<item>
+    <id>10</id>
+    <name>ballesta</name>
+    <type>arma</type>
+    <rarity>madera y hierro</rarity>
+    <damage>6</damage>
+    <description>Herramienta para matar enemigos</description>
+</item>
+
+<item>
+    <id>15</id>
+    <name>pala</name>
+    <type>herramienta</type>
+    <rarity>madera y metal</rarity>
+    <damage>0</damage>
+    <description>Herramienta para plantar plantas</description>
+</item>
+</minecraftItems>
