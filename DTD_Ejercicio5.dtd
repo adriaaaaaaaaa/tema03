@@ -1,0 +1,29 @@
+<!ELEMENT curriculum-vitae (informacion-personal, educacion, habilidades, idiomas)>
+
+
+<!ELEMENT informacion-personal (nombre, fecha-nacimiento, email, direccion, telefono, dni, quien-soy)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT fecha-nacimiento (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT direccion (#PCDATA)>
+<!ELEMENT telefono (#PCDATA)>
+<!ELEMENT dni (#PCDATA)>
+<!ELEMENT quien-soy (#PCDATA)>
+
+
+<!ELEMENT educacion (titulo+)>
+<!ELEMENT titulo (grado, institucion, fecha-inicio, fecha-fin?)>
+<!ELEMENT grado (#PCDATA)>
+<!ELEMENT institucion (#PCDATA)>
+<!ELEMENT fecha-inicio (#PCDATA)>
+<!ELEMENT fecha-fin (#PCDATA)>
+
+
+<!ELEMENT habilidades (habilidad+)>
+<!ELEMENT habilidad (#PCDATA)>
+
+
+<!ELEMENT idiomas (idioma+)>
+<!ELEMENT idioma (nombre, nivel)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT nivel (#PCDATA)>
